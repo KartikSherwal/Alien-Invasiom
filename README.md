@@ -1,1 +1,1 @@
-My very first 2D game made by me younger version of class 9 in 2019-2020
+Developed in 2019–2020 during Class 9, this was my first 2D game and an early step into programming. The project showcases my initial exploration of game logic, user interaction, and creative problem-solving.
